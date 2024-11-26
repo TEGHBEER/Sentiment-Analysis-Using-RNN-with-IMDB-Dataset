@@ -15,8 +15,7 @@ The primary objective of this project is to classify IMDB movie reviews as **pos
 5. [Hyperparameter Tuning](#hyperparameter-tuning)  
 6. [Comparative Analysis](#comparative-analysis)  
 7. [Results and Insights](#results-and-insights)  
-8. [Installation and Usage](#installation-and-usage)  
-9. [Acknowledgments](#acknowledgments)  
+
 
 ---
 
